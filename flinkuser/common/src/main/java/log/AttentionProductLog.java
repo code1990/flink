@@ -1,4 +1,6 @@
-package part05log;
+package log;
+
+import java.io.Serializable;
 
 /**
  * @program: flinkuser
@@ -6,24 +8,16 @@ package part05log;
  * @Author: code1990
  * @Description:
  */
-public class CollectProductLog {
+public class AttentionProductLog implements Serializable {
     private int productid;//商品id
     private int producttypeid;//商品类别id
     private String opertortime;//操作时间
-    private int opertortype;//操作类型，0、收藏，1、取消
+    private int operatortype;//操作类型，0、关注，1、取消
+    private String staytime;//停留时间
     private int userid;//用户id
     private int usetype;//终端类型：0、pc端；1、移动端；2、小程序端'
     private String ip;// 用户ip
-
     private String brand;//品牌
-
-    public String getBrand() {
-        return brand;
-    }
-
-    public void setBrand(String brand) {
-        this.brand = brand;
-    }
 
     public int getProductid() {
         return productid;
@@ -49,12 +43,20 @@ public class CollectProductLog {
         this.opertortime = opertortime;
     }
 
-    public int getOpertortype() {
-        return opertortype;
+    public int getOperatortype() {
+        return operatortype;
     }
 
-    public void setOpertortype(int opertortype) {
-        this.opertortype = opertortype;
+    public void setOperatortype(int operatortype) {
+        this.operatortype = operatortype;
+    }
+
+    public String getStaytime() {
+        return staytime;
+    }
+
+    public void setStaytime(String staytime) {
+        this.staytime = staytime;
     }
 
     public int getUserid() {
@@ -79,5 +81,13 @@ public class CollectProductLog {
 
     public void setIp(String ip) {
         this.ip = ip;
+    }
+
+    public String getBrand() {
+        return brand;
+    }
+
+    public void setBrand(String brand) {
+        this.brand = brand;
     }
 }

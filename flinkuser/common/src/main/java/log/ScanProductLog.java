@@ -1,4 +1,4 @@
-package part05log;
+package log;
 
 import java.io.Serializable;
 

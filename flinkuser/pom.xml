@@ -11,6 +11,8 @@
     <modules>
         <module>service</module>
         <module>eurekaserver</module>
+        <module>infoservice</module>
+        <module>common</module>
     </modules>
 
 
