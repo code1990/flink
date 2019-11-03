@@ -1,4 +1,4 @@
-package part15kemean;
+package part16usergroup;
 
 import part14kemeans.Cluster;
 import part14kemeans.DistanceCompute;
