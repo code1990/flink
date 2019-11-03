@@ -13,7 +13,8 @@
         <module>eurekaserver</module>
         <module>infoservice</module>
         <module>common</module>
-        <module>search</module>
+        <module>searchservice</module>
+        <module>viewservice</module>
     </modules>
 
 

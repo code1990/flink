@@ -9,8 +9,9 @@
         <module name="common" />
         <module name="eurekaserver" />
         <module name="infoservice" />
-        <module name="search" />
+        <module name="searchservice" />
         <module name="service" />
+        <module name="viewservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
