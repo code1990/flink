@@ -9,6 +9,7 @@
         <module name="common" />
         <module name="eurekaserver" />
         <module name="infoservice" />
+        <module name="search" />
         <module name="service" />
       </profile>
     </annotationProcessing>
