@@ -30,40 +30,6 @@
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/searchservice/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="9" selection-start-line="4" selection-start-column="4" selection-end-line="93" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/searchservice/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viewservice/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ViewServiceApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/ViewServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,9 +58,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MongoDataViewControl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/service/MongoDataViewControl.java">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="MongoDataViewControl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/controller/MongoDataViewControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="49" column="9" lean-forward="true" selection-start-line="16" selection-end-line="55" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#929#942#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnalyForm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/entity/AnalyForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewResultAnaly.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/entity/ViewResultAnaly.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnalyResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/entity/AnalyResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MongoDataViewService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/service/MongoDataViewService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="AnalyResult.java" pinned="false" current-in-tab="false">
@@ -171,11 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/service/src/main/java/part12arithmetic02/LogicEntity.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/part12arithmetic02/LogicMap.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/part12arithmetic02/LogicReduce.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/part12arithmetic02/LogicTask.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/part13sexpre/SexPreEntity.java" />
         <option value="$PROJECT_DIR$/service/src/main/java/part13sexpre/SexPreMap.java" />
         <option value="$PROJECT_DIR$/service/src/main/java/part13sexpre/SexPreSaveMap.java" />
         <option value="$PROJECT_DIR$/service/src/main/java/part13sexpre/SexPreReduce.java" />
@@ -222,6 +227,11 @@
         <option value="$PROJECT_DIR$/searchservice/src/main/java/com/controller/MongodataControl.java" />
         <option value="$PROJECT_DIR$/searchservice/src/main/java/com/service/MongoDataServiceImpl.java" />
         <option value="$PROJECT_DIR$/viewservice/src/main/java/com/service/MongoDataViewControl.java" />
+        <option value="$PROJECT_DIR$/viewservice/src/main/java/com/service/MongoDataService.java" />
+        <option value="$PROJECT_DIR$/viewservice/src/main/java/com/service/MongoDataViewService.java" />
+        <option value="$PROJECT_DIR$/viewservice/src/main/java/com/entity/ViewResultAnaly.java" />
+        <option value="$PROJECT_DIR$/viewservice/src/main/java/com/entity/AnalyForm.java" />
+        <option value="$PROJECT_DIR$/viewservice/src/main/java/com/controller/MongoDataViewControl.java" />
       </list>
     </option>
   </component>
@@ -460,6 +470,26 @@
               <item name="viewservice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinkuser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinkuser" type="462c0819:PsiDirectoryNode" />
+              <item name="viewservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinkuser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinkuser" type="462c0819:PsiDirectoryNode" />
+              <item name="viewservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -487,18 +517,18 @@
       <recent name="log" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.entity" />
       <recent name="com" />
       <recent name="part16usergroup" />
       <recent name="part13sexpre" />
       <recent name="part12arithmetic02" />
-      <recent name="part10usertype" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\flink\flinkuser\viewservice\src\main\java\com\entity" />
       <recent name="D:\github\flink\flinkuser\viewservice\src\main\java\com\service" />
       <recent name="D:\github\flink\flinkuser\searchservice\src\main\java\com\entity" />
       <recent name="D:\github\flink\flinkuser\searchservice\src\main\java\com\service" />
       <recent name="D:\github\flink\flinkuser\searchservice\src\main\java\com\controller" />
-      <recent name="D:\github\flink\flinkuser\viewservice\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -629,15 +659,16 @@
       <workItem from="1572533889393" duration="1173000" />
       <workItem from="1572638965891" duration="13993000" />
       <workItem from="1572745651981" duration="9095000" />
-      <workItem from="1572761619642" duration="2491000" />
+      <workItem from="1572761619642" duration="3892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47903000" />
+    <option name="totallyTimeSpent" value="49304000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -656,7 +687,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.025225226" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990991" visible="true" weight="0.2998366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990991" visible="true" weight="0.28349674" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -680,30 +711,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/part13sexpre/SexPreTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/part14kemeans/Cluster.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/part15kemean/KMeansMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/part15kemean/KMeansTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="53" column="5" selection-start-line="18" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/src/main/java/part15kemean/KMeansReduce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -989,8 +996,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/service/MongoDataViewControl.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/service/MongoDataViewService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/controller/MongoDataViewControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="16" selection-end-line="55" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#929#942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/entity/AnalyForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/entity/AnalyResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/entity/ViewResultAnaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
