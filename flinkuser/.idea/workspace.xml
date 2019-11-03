@@ -20,28 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MongoDataViewControl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/controller/MongoDataViewControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="49" column="9" selection-start-line="16" selection-end-line="55" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#929#942#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnalyForm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/entity/AnalyForm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ViewResultAnaly.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/entity/ViewResultAnaly.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,9 +57,61 @@
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
-      <file leaf-file-name="IKAnalyzer.cfg.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IKAnalyzer.cfg.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/src/main/resources/IKAnalyzer.cfg.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="6" lean-forward="true" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IkTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/src/main/java/part19ik/IkTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tfIdfAnaly.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/service/src/main/java/part20tfidf/tfIdfAnaly.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="75" column="10" lean-forward="true" selection-start-line="11" selection-end-line="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1292#1305#0" expanded="true" />
+                <element signature="e#1911#1926#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IkUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/src/main/java/part20tfidf/IkUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/src/main/java/util/MapUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="e#1050#1066#0" expanded="true" />
+                <element signature="e#1135#1162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="AnalyResult.java" pinned="false" current-in-tab="false">
@@ -89,15 +119,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MongoDataViewService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viewservice/src/main/java/com/service/MongoDataViewService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -154,10 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/service/src/main/java/part13sexpre/SexPreSaveMap.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/part13sexpre/SexPreReduce.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/part13sexpre/SexPreTask.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/part14kemeans/Cluster.java" />
         <option value="$PROJECT_DIR$/service/src/main/java/part15kemean/KMeansReduce.java" />
         <option value="$PROJECT_DIR$/service/src/main/java/part15kemean/KMeansRun.java" />
         <option value="$PROJECT_DIR$/service/src/main/java/part15kemean/KMeansFinalMap.java" />
@@ -205,6 +222,10 @@
         <option value="$PROJECT_DIR$/viewservice/src/main/java/com/entity/AnalyForm.java" />
         <option value="$PROJECT_DIR$/viewservice/src/main/java/com/controller/MongoDataViewControl.java" />
         <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/service/src/main/java/part19ik/IkTest.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/part20tfidf/IkUtil.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/part20tfidf/tfIdfAnaly.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/util/MapUtils.java" />
       </list>
     </option>
   </component>
@@ -420,7 +441,25 @@
               <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinkuser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinkuser" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="part20tfidf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinkuser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinkuser" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -454,11 +493,11 @@
       <recent name="part12arithmetic02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\flink\flinkuser\service\src\main\java\part20tfidf" />
+      <recent name="D:\github\flink\flinkuser\service\src\main\java\part19ik" />
       <recent name="D:\github\flink\flinkuser\service\src\main\resources" />
       <recent name="D:\github\flink\flinkuser\service\libs" />
       <recent name="D:\github\flink\flinkuser\viewservice\src\main\java\com\entity" />
-      <recent name="D:\github\flink\flinkuser\viewservice\src\main\java\com\service" />
-      <recent name="D:\github\flink\flinkuser\searchservice\src\main\java\com\entity" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -589,15 +628,16 @@
       <workItem from="1572533889393" duration="1173000" />
       <workItem from="1572638965891" duration="13993000" />
       <workItem from="1572745651981" duration="9095000" />
-      <workItem from="1572761619642" duration="4864000" />
+      <workItem from="1572761619642" duration="5915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50276000" />
+    <option name="totallyTimeSpent" value="51327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -616,7 +656,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.025225226" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990991" visible="true" weight="0.28349674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990991" visible="true" weight="0.16094771" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -640,34 +680,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/part16usergroup/KMeansFinalusergroupMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/part16usergroup/KMeansRunbyusergroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="145" column="5" lean-forward="true" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/part16usergroup/UserGroupEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="136" column="28" selection-start-line="136" selection-start-column="28" selection-end-line="136" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/part16usergroup/UserGroupbykmeansReduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/src/main/java/part16usergroup/UserGroupMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-290">
@@ -960,7 +972,51 @@
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/service/src/main/resources/IKAnalyzer.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="6" lean-forward="true" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/part19ik/IkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/util/MapUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="e#1050#1066#0" expanded="true" />
+            <element signature="e#1135#1162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/part20tfidf/IkUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/part20tfidf/tfIdfAnaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="75" column="10" lean-forward="true" selection-start-line="11" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1292#1305#0" expanded="true" />
+            <element signature="e#1911#1926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
