@@ -26,11 +26,10 @@
       <file leaf-file-name="SocketWindowWordCountJava.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/streamapi/part01window/SocketWindowWordCountJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="142">
+              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
               <folding>
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,8 +106,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-92" />
-    <option name="y" value="268" />
+    <option name="x" value="19" />
+    <option name="y" value="281" />
     <option name="width" value="1300" />
     <option name="height" value="688" />
   </component>
@@ -256,15 +255,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572872287933</updated>
-      <workItem from="1572872294453" duration="2253000" />
+      <workItem from="1572872294453" duration="3486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2253000" />
+    <option name="totallyTimeSpent" value="3486000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
+    <frame x="-47" y="326" width="1300" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -277,11 +276,11 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.61801803" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990991" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990991" weight="0.25" />
       <window_info anchor="bottom" id="Run with VisualVM" />
       <window_info anchor="bottom" id="Tail" />
       <window_info anchor="right" id="Database" />
-      <window_info id="Learn" sideWeight="0.5009009" side_tool="true" visible="true" weight="0.25" />
+      <window_info id="Learn" sideWeight="0.5009009" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -313,11 +312,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/streamapi/part01window/SocketWindowWordCountJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="142">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
           <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -350,7 +348,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -411,7 +409,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.esotericsoftware.kryo:kryo:2.24.0</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
