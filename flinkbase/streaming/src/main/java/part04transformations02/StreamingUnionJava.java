@@ -1,4 +1,4 @@
-package part04;
+package part04transformations02;
 
 /**
  * @program: flinkbase
@@ -6,5 +6,5 @@ package part04;
  * @Author: code1990
  * @Description:
  */
-public class MyNoParalleSourceJava {
+public class StreamingUnionJava {
 }

@@ -1,4 +1,4 @@
-package part05;
+package part05partition01;
 
 /**
  * @program: flinkbase
@@ -6,5 +6,5 @@ package part05;
  * @Author: code1990
  * @Description:
  */
-public class StreamingDemoWithMyNoPralalleSourceJava {
+public class PartitionJava {
 }

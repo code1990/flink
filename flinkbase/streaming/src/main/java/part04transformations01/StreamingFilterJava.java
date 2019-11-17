@@ -1,4 +1,4 @@
-package part03;
+package part04transformations01;
 
 /**
  * @program: flinkbase
@@ -6,5 +6,5 @@ package part03;
  * @Author: code1990
  * @Description:
  */
-public class StreamingFromCollectionJava {
+public class StreamingFilterJava {
 }

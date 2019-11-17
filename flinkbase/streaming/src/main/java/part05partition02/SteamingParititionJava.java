@@ -1,4 +1,4 @@
-package part02datasource;
+package part05partition02;
 
 /**
  * @program: flinkbase
@@ -6,5 +6,5 @@ package part02datasource;
  * @Author: code1990
  * @Description:
  */
-public class StreamingFromCollection {
+public class SteamingParititionJava {
 }

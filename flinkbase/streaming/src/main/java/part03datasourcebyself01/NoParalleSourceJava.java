@@ -1,4 +1,4 @@
-package part03datasourcebyself;
+package part03datasourcebyself01;
 
 /**
  * @program: flinkbase
@@ -6,5 +6,5 @@ package part03datasourcebyself;
  * @Author: code1990
  * @Description:
  */
-public class NoParalleSource {
+public class NoParalleSourceJava {
 }
