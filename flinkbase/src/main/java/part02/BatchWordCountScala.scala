@@ -1,4 +1,4 @@
-package part04_batch_wordcount
+package part02
 
 import org.apache.flink.api.java.ExecutionEnvironment
 
@@ -19,7 +19,6 @@ object BatchWordCountScala {
       .map((_,1))
       .groupBy(0)
       .sum(1)
-
     counts.writeAsCsv(outPut,"\n"," ").setParallelism(1)
     env.execute("batch word count")
   }
