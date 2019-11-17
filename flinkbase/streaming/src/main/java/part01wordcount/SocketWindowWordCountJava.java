@@ -1,4 +1,4 @@
-package part01;
+package part01wordcount;
 
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.api.java.utils.ParameterTool;

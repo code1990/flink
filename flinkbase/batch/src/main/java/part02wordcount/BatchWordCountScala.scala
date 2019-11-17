@@ -1,4 +1,4 @@
-package part02
+package part02wordcount
 
 import org.apache.flink.api.java.ExecutionEnvironment
 
@@ -12,7 +12,6 @@ object BatchWordCountScala {
     val text = env.readTextFile(inputPath)
 
     //引入隐式转换
-    import org.apache.flink.api.scala._
 
     val counts = text.flatMap(_.toLowerCase.split("\\W+"))
       .filter(_.nonEmpty)

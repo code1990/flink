@@ -1,4 +1,4 @@
-package part01
+package part01wordcount
 
 import org.apache.flink.api.java.utils.ParameterTool
 import org.apache.flink.streaming.api.scala.StreamExecutionEnvironment
