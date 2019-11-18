@@ -11,6 +11,7 @@
     <modules>
         <module>batch</module>
         <module>streaming</module>
+        <module>shizhan</module>
     </modules>
     <dependencies>
         <dependency>

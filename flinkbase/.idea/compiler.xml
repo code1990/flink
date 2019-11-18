@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="batch" />
+        <module name="shizhan" />
         <module name="streaming" />
       </profile>
     </annotationProcessing>
