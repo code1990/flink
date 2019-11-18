@@ -1,4 +1,4 @@
-package part02wordcount
+package part01wordcount
 
 import org.apache.flink.api.java.ExecutionEnvironment
 
