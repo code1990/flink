@@ -15,80 +15,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BatchHashRangePartition.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/batch/src/main/java/part03partition02/BatchHashRangePartition.java">
+      <file leaf-file-name="SocketFullCountJava.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part08window02/SocketFullCountJava.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BatchHashRangePartition.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/batch/src/main/java/part03partition02/BatchHashRangePartition.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BatchBroadcastJava.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/batch/src/main/java/part04broadcast/BatchBroadcastJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BatchBroadcastScala.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/batch/src/main/java/part04broadcast/BatchBroadcastScala.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="8" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StreamingNoPralalleSourceBroadcastJava.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part07broadcast/StreamingNoPralalleSourceBroadcastJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BatchCounterJava.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/batch/src/main/java/part05counter/BatchCounterJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BatchCounterScala.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/batch/src/main/java/part05counter/BatchCounterScala.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BatchDisCacheJava.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/batch/src/main/java/part06distributecache/BatchDisCacheJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BatchDisCacheScala.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/batch/src/main/java/part06distributecache/BatchDisCacheScala.scala">
+      <file leaf-file-name="SocketFullCountScala.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part08window02/SocketFullCountScala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
               <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
@@ -96,11 +33,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StreamingNoPralalleSourceBroadcastScala.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part07broadcast/StreamingNoPralalleSourceBroadcastScala.scala">
+      <file leaf-file-name="StreamingWindowWatermarkJava.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part09watermark01/StreamingWindowWatermarkJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamingWindowWatermarkScala.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part09watermark01/StreamingWindowWatermarkScala.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamingWindowWatermark02Java.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part09watermark02/StreamingWindowWatermark02Java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamingWindowWatermark02Scala.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part09watermark02/StreamingWindowWatermark02Scala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamingKafkaSourceJava.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector01/StreamingKafkaSourceJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamingKafkaSourceScala.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector01/StreamingKafkaSourceScala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamingKafkaSourceJava.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector02/part10kafkaconnector01/StreamingKafkaSourceJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamingKafkaSourceScala.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector02/part10kafkaconnector01/StreamingKafkaSourceScala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -129,18 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part02datasource/StreamingFromCollectionJava.java" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part02datasource/StreamingFromCollectionScala.scala" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself/NoParalleSourceJava.java" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself/NoParalleSourceScala.scala" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself02/NoParalleSourceScala.scala" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself02/ParalleSourceJava.java" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself01/StreamingFromCollectionScala.scala" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself01/NoParalleSourceScala.scala" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself03/RichParallelSourceScala.scala" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself04/StreamingNoParallelSourceScala.scala" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself06/StreamingRichParallelSourceScala.scala" />
-        <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself05/StreamingParallelSourceScala.scala" />
         <option value="$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself02/ParalleSourceScala.scala" />
         <option value="$PROJECT_DIR$/streaming/src/main/java/transformations/MyNoParalleSourceJava.java" />
         <option value="$PROJECT_DIR$/streaming/src/main/java/part06transformations/MyNoParalleSourceJava.java" />
@@ -180,6 +168,18 @@
         <option value="$PROJECT_DIR$/streaming/src/main/java/part07broadcast/StreamingNoPralalleSourceBroadcastJava.java" />
         <option value="$PROJECT_DIR$/batch/src/main/java/part05counter/BatchCounterScala.scala" />
         <option value="$PROJECT_DIR$/batch/src/main/java/part06distributecache/BatchDisCacheScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part08window/IncreaseAggregateScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part08window01/IncreaseAggregateScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part08window02/SocketFullCountScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part09watermark/StreamingWindowWatermarkScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part09watermark01/StreamingWindowWatermarkScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part09watermark02/part09watermark01/StreamingWindowWatermarkScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part09watermark02/StreamingWindowWatermarkScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part09watermark02/StreamingWindowWatermark02Java.java" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part09watermark02/StreamingWindowWatermark02Scala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector/StreamingKafkaSourceScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector01/StreamingKafkaSourceScala.scala" />
+        <option value="$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector02/part10kafkaconnector01/StreamingKafkaSourceScala.scala" />
       </list>
     </option>
   </component>
@@ -226,7 +226,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-428" />
     <option name="y" value="233" />
     <option name="width" value="1300" />
@@ -238,6 +238,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,6 +275,24 @@
             <path>
               <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
               <item name="flinkbase" type="462c0819:PsiDirectoryNode" />
+              <item name="batch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="part06distributecache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinkbase" type="462c0819:PsiDirectoryNode" />
+              <item name="batch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="part07checkpoint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flinkbase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -315,7 +334,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part03datasourcebyself05" type="462c0819:PsiDirectoryNode" />
+              <item name="part09watermark01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
@@ -324,7 +343,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part03datasourcebyself06" type="462c0819:PsiDirectoryNode" />
+              <item name="part09watermark02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
@@ -333,7 +352,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part04transformations01" type="462c0819:PsiDirectoryNode" />
+              <item name="part10kafkaconnector01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
@@ -342,7 +361,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part04transformations02" type="462c0819:PsiDirectoryNode" />
+              <item name="part10kafkaconnector02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
@@ -351,58 +370,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part04transformations03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkbase" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part04transformations04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkbase" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part05partition01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkbase" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part05partition02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkbase" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part06sink" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkbase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkbase" type="462c0819:PsiDirectoryNode" />
-              <item name="streaming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="part07broadcast" type="462c0819:PsiDirectoryNode" />
+              <item name="part10kafkaconnector02" type="462c0819:PsiDirectoryNode" />
+              <item name="part10kafkaconnector01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -427,7 +401,9 @@
       <recent name="part03datasourcebyself" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\flink\flinkbase\streaming\src\main\java\part10kafkaconnector02" />
       <recent name="D:\github\flink\flinkbase\streaming\src\main\java" />
+      <recent name="D:\github\flink\flinkbase\streaming\src\main\java\part09watermark02" />
       <recent name="D:\github\flink\flinkbase\streaming\src\main\java\part03datasourcebyself02" />
       <recent name="D:\github\flink\flinkbase\src\main\java" />
     </key>
@@ -525,11 +501,12 @@
       <workItem from="1573281536792" duration="1901000" />
       <workItem from="1573991781210" duration="3889000" />
       <workItem from="1573997807213" duration="5577000" />
+      <workItem from="1574084592530" duration="833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19021000" />
+    <option name="totallyTimeSpent" value="19854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
@@ -544,7 +521,7 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8086319" weight="0.14285715" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990991" visible="true" weight="0.41421568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990991" visible="true" weight="0.4232026" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="right" id="Database" order="3" />
@@ -564,13 +541,12 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Run with VisualVM" order="8" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.61801803" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="10" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990991" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -579,17 +555,18 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Designer" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924837" />
       <window_info id="Learn" order="2" sideWeight="0.5009009" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="SciView" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924837" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" />
       <window_info id="Favorites" order="4" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -600,97 +577,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself03/RichParallelSourceJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself03/RichParallelSourceScala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself04/StreamingNoParallelSourceJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself04/StreamingNoParallelSourceScala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself05/StreamingParallelSourceJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself05/StreamingParallelSourceScala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part03datasourcebyself06/StreamingRichParallelSourceJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part04transformations01/StreamingUnionScala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part04transformations01/StreamingFilterJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part04transformations02/StreamingUnionJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part04transformations03/StreamingConnectJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part04transformations04/StreamingSplitJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part04transformations04/StreamingSplitScala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part04transformations03/StreamingConnectScala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -758,9 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" lean-forward="true" selection-start-column="8" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -820,13 +703,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/batch/src/main/java/part02transform04/BatchUnionScala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/batch/src/main/java/part02transform04/BatchUnionScala.scala" />
     <entry file="file://$PROJECT_DIR$/batch/src/main/java/part02transform04/BatchCrossScala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -883,13 +760,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/batch/src/main/java/part03partition01/BatchHashRangePartition.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/batch/src/main/java/part03partition01/BatchHashRangePartition.scala" />
     <entry file="file://$PROJECT_DIR$/batch/src/main/java/part03partition02/BatchHashRangePartition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -900,7 +771,7 @@
     <entry file="file://$PROJECT_DIR$/batch/src/main/java/part03partition02/BatchHashRangePartition.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -942,7 +813,7 @@
     <entry file="file://$PROJECT_DIR$/batch/src/main/java/part05counter/BatchCounterScala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -955,8 +826,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/batch/src/main/java/part06distributecache/BatchDisCacheScala.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part08window01/IncreaseAggregateJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part08window01/IncreaseAggregateScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part08window02/SocketFullCountJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part08window02/SocketFullCountScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part09watermark01/StreamingWindowWatermarkJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part09watermark01/StreamingWindowWatermarkScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part09watermark02/part09watermark01/StreamingWindowWatermarkScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part09watermark02/StreamingWindowWatermark02Java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part09watermark02/StreamingWindowWatermark02Scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector01/StreamingKafkaSourceJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector01/StreamingKafkaSourceScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector02/part10kafkaconnector01/StreamingKafkaSourceScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streaming/src/main/java/part10kafkaconnector02/part10kafkaconnector01/StreamingKafkaSourceJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
