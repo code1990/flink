@@ -6,5 +6,5 @@ package part03partition02;
  * @Author: code1990
  * @Description:
  */
-public class BatchHashRangePartition {
+public class BatchHashRangePartitionJava {
 }

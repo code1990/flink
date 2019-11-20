@@ -14,9 +14,9 @@ import org.apache.flink.util.Collector;
  * @Description:
  */
 public class BatchWordCountJava {
+    static String inputPath = "D:\\hello.txt";
+    static String outPath = "D:\\hello1.txt";
     public static void main(String[] args) {
-        String inputPath = "D:\\data\\file";
-        String outPath = "D:\\data\\result";
         //获取运行环境
         ExecutionEnvironment env = ExecutionEnvironment.getExecutionEnvironment();
         //获取文件中的内容
